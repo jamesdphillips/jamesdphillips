@@ -1,8 +1,3 @@
 <p align="center">
-    <img height="50px" src="./cubed.svg" />
-    <img height="120px" src="./cubed.svg" />
-    <img height="100px" src="./cubed.svg" />
-    <img height="150px" src="./cubed.svg" />
-    <img height="60px" src="./cubed.svg" />
-    <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/659-jack-o-lantern.svg" />
+  <img src="https://user-images.githubusercontent.com/194892/233696371-fd13f9bd-c8a6-43a4-b020-2e4148b98d9a.png" />
 </p>
